@@ -20,9 +20,11 @@
   <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600" height="300"/>
 </div>
 ### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+<div align="center">
+  I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+</div>
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :zap: In my free time, I solve problems on Codewars and read tech articles.
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Oleg Stepanenko-blue?style=flat&logo=Gmail&logoColor=white)](stepooleg@gmail.com)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=Gmail&logoColor=white)](stepooleg@gmail.com)
