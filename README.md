@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100px"/>
 </div>
 <div id="badges" align="center">
  <a href="www.linkedin.com/in/oleg-stepanenko-9834761a0">
@@ -17,7 +17,7 @@
 </h1>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="600px" height="300px"/>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="500px" height="300px"/>
 </div>
 ### :woman_technologist: About Me :
 
