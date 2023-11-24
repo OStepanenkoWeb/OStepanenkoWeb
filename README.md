@@ -27,7 +27,7 @@
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I solve problems on Codewars and read tech articles.
+- :zap: In my free time, I solve tasks on Codewars and read tech articles.
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-email-blue?style=flat&logo=Gmail&logoColor=white)](stepooleg@gmail.com)
 
